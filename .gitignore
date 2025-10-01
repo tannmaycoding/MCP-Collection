@@ -1,0 +1,6 @@
+dictionary-mcp/env/
+news-mcp/env/
+totd-mcp/env/
+todo-mcp/env/
+.idea/
+*.env
