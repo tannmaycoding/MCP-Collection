@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 import os
 
 # Initialize FastMCP server
-mcp = FastMCP("DictionaryMCP")
+mcp = FastMCP("dictionary-mcp")
 load_dotenv()
 
 # Merriam-Webster API setup
